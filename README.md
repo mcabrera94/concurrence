@@ -12,4 +12,5 @@ Clone el proyecto desde el repositorio
 Despliegue el codigo en el IDE de su preferencia
 Importe todas las depencias contenidas en el archivo pom.xml
 Coloque la siguiente url en el navegador de su preferencia http://localhost:8080/jsondoc-ui.html#
+En la barra de direcciones que se muestra coloque "jsondoc"
 Una vez se despliegue el API de documentacion, navegue hasta la pestaña "Concurrence Service"
